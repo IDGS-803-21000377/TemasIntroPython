@@ -1,16 +1,16 @@
 
 x = 0
-i=1
+n=1
 
 print("dame un numero ")
 num = input('Numero: ')
-res = int(num)+int(x)
+res = int(num)+int(n)
 
 
 if res == 0:
     print("todo numero multiplicado por 0 es 0 ")
 else :
+    while res < 10:
+        print(res)
     
-   while x <=10:
-       print(x+res)
-   x = i+res
+  
