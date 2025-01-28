@@ -15,5 +15,3 @@ numero4 = "12"
 print(int(numero3)+int(numero4))
 
 
-
-num1 = "frwegreggergergeegtg"
